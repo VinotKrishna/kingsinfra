@@ -3524,7 +3524,7 @@ input, select, textarea {
 			#banner .content .image {
 				border-radius: 100%;
 				display: inline-block;
-				/* height: 18em; */
+				height: 18em;
 				margin-left: 3em;
 				vertical-align: middle;
 				width: 25em;
